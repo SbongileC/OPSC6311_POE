@@ -7,4 +7,4 @@
 
 **About app**
 
-The app is a budget tracker app which enables users to track their finacial habits by entering categories
+The app is a budget tracker app which enables users to track their finacial habits by entering categories, expenses, minimum and maximum goals, gives tips on how users can manage their finances, calculates how much they should spend and save, view a list of all the expenses and categories entered as well as view a pie chart that shows all the categories entered. 
