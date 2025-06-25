@@ -9,6 +9,6 @@
 
 Budget Booost is a user friendly budget tracker app which enables users to track their finacial habits by entering categories, expenses, minimum and maximum goals, gives tips on how users can manage their finances, calculates how much they should spend and save, view a list of all the expenses and categories entered as well as view a pie chart that shows all the categories entered. 
 
-**Youtube**
+**Video**
 https://youtube.com/shorts/f-Bl4pjFjSs?si=0IiSDcDQ5u2nM9WF
 
